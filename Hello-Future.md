@@ -2,6 +2,7 @@
 title: 'Hello,Future'
 date: 2016-11-16 06:01:02
 tags:
+comments: true
 ---
 ```
 当你一言不发坐在我面前
